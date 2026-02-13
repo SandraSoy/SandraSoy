@@ -3,7 +3,7 @@
 🎯 **Data Scientist & Analytics Professional** |  
 📍 Based in Atlanta, GA | 🌍 Open to Relocation | 💼 PMP-Certified
 
-<img align="right" alt="Coding Lady" width="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
+<img align="right" alt="Coding Lady" width="300" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 
 ---
 
