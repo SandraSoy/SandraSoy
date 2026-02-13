@@ -45,20 +45,20 @@ I'm passionate about applying data science to real-world problems across **finan
 
 ## 🚀 Featured Projects
 
-### 🔹 [📄 GenAI Text Summarizer App] 
+### 🔹 📄 GenAI Text Summarizer App 
 > Built a Streamlit LLM app to summarize uploaded documents using GPT-4. Supports topic extraction, Q&A, and rewriting.
 🔗 **GitHub:** (https://github.com/SandraSoy/GENAI_006_PROJECT_03)
 🚀 **Live App:** (https://genaiproject006.streamlit.app/)
 
-### 🔹 [📈 Employee Performance Predictor]
+### 🔹 📈 Employee Performance Predictor
 > Achieved 96% accuracy predicting employee performance. Delivered actionable insights for HR planning.
 🔗 **GitHub:** (https://github.com/SandraSoy/Employee_Performance_Analysis)
 🚀 **Live App:**: (https://employeeperformanceanalysis-sandra.streamlit.app/)
 
-### 🔹 [🏡 Truist Mortgage Fraud Detection]
+### 🔹 🏡 Truist Mortgage Fraud Detection
 > Random Forest classifier to detect fraudulent mortgage applications with 90%+ recall. Full feature engineering and KPI-driven evaluation.
 
-### 🔹 [🌍 Supply Chain Risk Forecasting with GDELT]
+### 🔹 🌍 Supply Chain Risk Forecasting with GDELT
 > Forecasted global inventory/logistics disruptions using time-series analysis + news-derived insights.
 
 ---
