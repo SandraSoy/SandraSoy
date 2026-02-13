@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding Lady" width="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
 
-
 ---
 
 ## 🧠 About Me
