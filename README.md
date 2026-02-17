@@ -59,6 +59,11 @@ I'm passionate about applying data science to real-world problems across **finan
 > 
 🚀 **Live App:**: https://employeeperformanceanalysis-sandra.streamlit.app/
 
+### 🩺 Diabetes Risk Prediction  
+📊 Machine learning classification project using LightGBM and SMOTE to predict diabetes risk based on health indicators. Includes model comparison, hyperparameter tuning, and ROC analysis.
+
+🔗 **GitHub:**  https://github.com/SandraSoy/diabetes-risk-prediction  
+
 ### 🔹 🏡 Truist Mortgage Fraud Detection
 > Random Forest classifier to detect fraudulent mortgage applications with 90%+ recall. Full feature engineering and KPI-driven evaluation.
 
