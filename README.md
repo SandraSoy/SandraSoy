@@ -65,12 +65,14 @@ Machine learning classification project using LightGBM and SMOTE to predict diab
 🔗 **GitHub:**  https://github.com/SandraSoy/diabetes-risk-prediction  
 
 ### 🔹 🏡 Mortgage Fraud Detection (Industry-Sponsored Project)
-> Built a Random Forest classification model to identify fraudulent mortgage applications, achieving ~90% recall during validation. Focused on feature engineering, class imbalance handling, and business-prioritized evaluation metrics. Explored synthetic data augmentation using Generative AI techniques to enhance fraud detection robustness.
+Built a Random Forest classification model to identify fraudulent mortgage applications, achieving ~90% recall during validation. Focused on feature engineering, class imbalance handling, and business-prioritized evaluation metrics. Explored synthetic data augmentation using Generative AI techniques to enhance fraud detection robustness.
 >
 🔗 **GitHub:** https://github.com/SandraSoy/Mortgage_fraud_detection
 
-### 🔹 🌍 Supply Chain Risk Forecasting with GDELT
-> Forecasted global inventory/logistics disruptions using time-series analysis + news-derived insights.
+### 🔹 🌍 GDELT Food Supply Chain Disruption Analysis 
+Analyzed global supply chain disruptions in essential food commodities using GDELT news data and USDA pricing signals. Performed sentiment classification, geospatial clustering, and temporal trend analysis, and explored LLM-based approaches for commodity risk forecasting.
+>
+🔗 **Github:**  https://github.com/SandraSoy/GDELT_SupplyChain-Disruption_Analysis
 
 ---
 
