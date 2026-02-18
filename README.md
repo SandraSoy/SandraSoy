@@ -66,6 +66,8 @@ Machine learning classification project using LightGBM and SMOTE to predict diab
 
 ### 🔹 🏡 Mortgage Fraud Detection (Industry-Sponsored Project)
 > Random Forest classifier to detect fraudulent mortgage applications with 90%+ recall. Full feature engineering and KPI-driven evaluation.
+>
+🔗 **GitHub:** https://github.com/SandraSoy/Mortgage_fraud_detection
 
 ### 🔹 🌍 Supply Chain Risk Forecasting with GDELT
 > Forecasted global inventory/logistics disruptions using time-series analysis + news-derived insights.
