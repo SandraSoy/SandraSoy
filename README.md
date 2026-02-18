@@ -65,7 +65,7 @@ Machine learning classification project using LightGBM and SMOTE to predict diab
 🔗 **GitHub:**  https://github.com/SandraSoy/diabetes-risk-prediction  
 
 ### 🔹 🏡 Mortgage Fraud Detection (Industry-Sponsored Project)
-> Random Forest classifier to detect fraudulent mortgage applications with 90%+ recall. Full feature engineering and KPI-driven evaluation.
+> Built a Random Forest classification model to identify fraudulent mortgage applications, achieving ~90% recall during validation. Focused on feature engineering, class imbalance handling, and business-prioritized evaluation metrics. Explored synthetic data augmentation using Generative AI techniques to enhance fraud detection robustness.
 >
 🔗 **GitHub:** https://github.com/SandraSoy/Mortgage_fraud_detection
 
