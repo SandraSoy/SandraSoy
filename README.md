@@ -90,12 +90,6 @@ Analyzed global supply chain disruptions in essential food commodities using GDE
 
 ---
 
-## 📈 GitHub Stats
-
-![Sandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandraSoy&show_icons=true&theme=default)
-
----
-
 ## 📬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sandracsoypmp)
