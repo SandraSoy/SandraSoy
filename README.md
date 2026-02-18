@@ -64,7 +64,7 @@ Machine learning classification project using LightGBM and SMOTE to predict diab
 >
 🔗 **GitHub:**  https://github.com/SandraSoy/diabetes-risk-prediction  
 
-### 🔹 🏡 Truist Mortgage Fraud Detection
+### 🔹 🏡 Mortgage Fraud Detection (Industry-Sponsored Project)
 > Random Forest classifier to detect fraudulent mortgage applications with 90%+ recall. Full feature engineering and KPI-driven evaluation.
 
 ### 🔹 🌍 Supply Chain Risk Forecasting with GDELT
