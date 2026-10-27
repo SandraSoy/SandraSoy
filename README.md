@@ -62,7 +62,7 @@ Achieved 96% accuracy predicting employee performance. Delivered actionable insi
 ### 🩺 Diabetes Risk Prediction  
 Machine learning classification project using LightGBM and SMOTE to predict diabetes risk based on health indicators. Includes model comparison, hyperparameter tuning, and ROC analysis.
 >
-🔗 **GitHub:**  https://github.com/SandraSoy/diabetes-risk-prediction  
+🔗 **GitHub:** https://github.com/SandraSoy/Diabetes_Risk_Prediction
 
 ### 🔹 🏡 Mortgage Fraud Detection (Industry-Sponsored Project)
 Built a Random Forest classification model to identify fraudulent mortgage applications, achieving ~90% recall during validation. Focused on feature engineering, class imbalance handling, and business-prioritized evaluation metrics. Explored synthetic data augmentation using Generative AI techniques to enhance fraud detection robustness.
